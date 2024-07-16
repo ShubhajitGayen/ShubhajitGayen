@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhajitgayen&label=Profile%20views&color=0e75b6&style=flat" alt="shubhajitgayen" /> </p>
 
 - 🌱 I’m currently learning **c++,
-- HTML,CSS,JAVASCRIPT,MYSQL,PHP,TALLY**
+  HTML,CSS,JAVASCRIPT,MYSQL,PHP,TALLY**
 
 - 📫 How to reach me **cseshubhajitiie@gmail.com**
 
