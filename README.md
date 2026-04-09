@@ -1,23 +1,64 @@
-![logo](https://github.com/ShubhajitGayen/ShubhajitGayen/blob/main/Github_Banner.jpg)
-<h1 align="center">Hi 👋, I'm Shubhajit Gayen</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhajitgayen&label=Profile%20views&color=0e75b6&style=flat" alt="shubhajitgayen" /> </p>
-
-- 🌱 I’m currently learning **c,
-  HTML,CSS,JAVASCRIPT,MYSQL,PHP,TALLY**
-
-- 📫 How to reach me **cseshubhajitiie@gmail.com**
-
-
-<p align="left">
+<!-- Banner -->
+<p align="center">
+  <img src="https://github.com/ShubhajitGayen/ShubhajitGayen/blob/main/Github_Banner.jpg" alt="banner" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+<!-- Title -->
+<h1 align="center">Hi 👋, I'm Shubhajit Gayen</h1>
+<h3 align="center">💻 Passionate Software Engineer from India</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhajitgayen&show_icons=true&locale=en&layout=compact" alt="shubhajitgayen" /></p>
+<!-- Coding GIF -->
+<img align="right" alt="coding" width="350" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubhajitgayen&show_icons=true&locale=en" alt="shubhajitgayen" /></p>
+<!-- Profile Views -->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=shubhajitgayen&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhajitgayen&" alt="shubhajitgayen" /></p>
+---
+
+### 🚀 About Me
+- 🌱 Currently learning: **C, HTML, CSS, JavaScript, MySQL, PHP**
+- 🎯 Goal: Becoming a **Full Stack Developer**
+- 📫 Reach me at: **cseshubhajitiie@gmail.com**
+
+---
+
+### 🛠️ Languages & Tools
+<p align="left">
+  <a href="https://www.w3schools.com/cpp/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://www.php.net" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/>
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhajitgayen&show_icons=true&locale=en&layout=compact" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shubhajitgayen&show_icons=true&locale=en" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhajitgayen" />
+</p>
+
+---
+
+### ⚡ Fun Fact
+> I love building web projects and learning new technologies every day 🚀
